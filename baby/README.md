@@ -15,8 +15,8 @@ Teknolojiler
 - CSS Animasyonları
 
 Kurulum
-- Repository’i klonlayın: git clone https://github.com/kullaniciAdi/cinsiyet-zarlari.git
-- Proje klasörüne girin: cd cinsiyet-zarlari
+- Repository’i klonlayın: git clone https://github.com/burakcanheyal/baby.git
+- Proje klasörüne girin: cd baby
 - Bağımlılıkları yükleyin: npm install
 - Uygulamayı başlatın: npm run dev
 
@@ -41,8 +41,8 @@ Technologies
 - CSS Animations
 
 Installation
-- Clone the repository: git clone https://github.com/username/gender-dice.git
-- Navigate to the project folder: cd gender-dice
+- Clone the repository: git clone https://github.com/burakcanheyal/baby.git
+- Navigate to the project folder: cd baby
 - Install dependencies: npm install
 - Start the application: npm run dev
 
