@@ -1,16 +1,53 @@
-# React + Vite
+Cinsiyet Zarları / Gender Dice
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+Cinsiyet Zarları, gelecekteki bebeğinizin cinsiyetini eğlenceli bir şekilde tahmin etmenizi sağlayan bir React uygulamasıdır. TailwindCSS kullanılarak modern, renkli ve animasyonlu bir arayüz ile geliştirilmiştir.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Özellikler
+- Tek tıkla "kız" veya "erkek" sonucu gösterme
+- Sonuca göre değişen arka plan renkleri
+- Animasyonlu ve responsive tasarım
+- "Bir daha denemek ister misin?" butonu ile sıfırlama
 
-## React Compiler
+Teknolojiler
+- React
+- TailwindCSS
+- CSS Animasyonları
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Kurulum
+- Repository’i klonlayın: git clone https://github.com/kullaniciAdi/cinsiyet-zarlari.git
+- Proje klasörüne girin: cd cinsiyet-zarlari
+- Bağımlılıkları yükleyin: npm install
+- Uygulamayı başlatın: npm run dev
 
-## Expanding the ESLint configuration
+Kullanım
+- Ana ekranda "Haydi Atalım" butonuna tıklayın.
+- Sonuç ekranda gösterilecek ve arka plan buna göre değişecek.
+- "Bir daha denemek ister misin?" butonuna basarak tekrar deneyebilirsiniz.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---------------------------------------------------------------------------------------------------------------------------------------------
+
+Gender Dice is a React application that allows you to have fun predicting the gender of your future baby. It features a modern, colorful, and animated interface built with TailwindCSS.
+
+Features
+- Show "girl" or "boy" result with a single click
+- Background colors change based on the result
+- Animated and responsive design
+- Reset option with the "Try again" button
+
+Technologies
+- React
+- TailwindCSS
+- CSS Animations
+
+Installation
+- Clone the repository: git clone https://github.com/username/gender-dice.git
+- Navigate to the project folder: cd gender-dice
+- Install dependencies: npm install
+- Start the application: npm run dev
+
+Usage
+- Click the "Roll Now" button on the main screen.
+- The result will appear on the screen and the background will change accordingly.
+- Click the "Try again" button to reset and roll again.
+
